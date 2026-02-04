@@ -1,0 +1,3 @@
+MatchID,Player,Minute,ActionType,Phase,DQ,EQ,CD,TA,LOP,MistakeType,FinalCAV
+M001,Yamal,0,Pass,Build-up,5.0,0.8,1.0,0.0,1.0,,4.0
+M001,Yamal,0,Pass,Build-up,0.8,0.8,1.0,0.0,1.0,,0.64
